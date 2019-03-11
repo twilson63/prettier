@@ -1,0 +1,8 @@
+{
+  "name": "@twilson63/prettier",
+  "version": "1.0.0",
+  "description": "create prettierrc file",
+  "bin": { "prettier": "index.js" },
+  "main": "index.js",
+  "license": "MIT"
+}
